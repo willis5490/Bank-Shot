@@ -84,7 +84,7 @@ body{
 
 @media only screen and (max-width: 400px){
     #openingpage{
-        background: url(images/bank\ shot.png) no-repeat center center fixed; 
+        background: url(images/bank\ shotmobile1.png) no-repeat center center fixed; 
         -webkit-background-size: cover;
         -moz-background-size: cover;
         -o-background-size: cover;
@@ -108,7 +108,7 @@ body{
         height: 10px;
     }
     #buttlayout{
-        margin-top: 600px;
+        margin-top: 450px;
     }
     .songTitle{
         text-align: center;
