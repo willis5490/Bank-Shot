@@ -1,0 +1,112 @@
+#navbar{
+    /* margin-right: 40px; */
+    margin-top: 20px;
+}
+.nav-link{
+    color: black
+}
+#bname{
+    text-align: center;
+    margin-left: 260px;
+    margin-top: 20px;
+    font-size: 50px;
+    font-family: 'Monoton', cursive;
+}
+#logo1{
+   text-align: center;
+  width: 100%;
+  height: 100%;
+   
+}
+#bslogo{
+    height: 100px;
+    width: 100px;
+}
+#header{
+    background-color: rgb(90, 111, 132);
+}
+body{
+    
+}
+#openingpage{
+    background: url(images/bank\ shot.png) no-repeat center center fixed; 
+            -webkit-background-size: cover;
+            -moz-background-size: cover;
+            -o-background-size: cover;
+            background-size: cover;
+}
+#buttlayout{
+    text-align: center;
+    margin-top: 350px;
+}
+#mybutton{
+    
+}
+.bio{
+    width: 100%;
+    height: 625px;
+    text-align: center
+}
+.controls{
+    
+    background-color: black;
+}
+.jumbotron{
+    height: 640px;
+    width: 1550px;
+    background: url(images/curls.png)
+}
+.songTitle{
+    text-align: center;
+    margin-top: 170px;
+    color: rgba(255, 250, 240, 0.721);
+}
+.media1{
+    text-align: center;
+    margin-left: 40%
+}
+#mediapage{
+    background: url(images/curls.png)
+}
+#headcard{
+    margin-top: 50px;
+    text-align: center;
+}
+#concertCard{
+    margin-top: 50px;
+}
+#cardhead{
+    background-color: rgb(90, 111, 132);
+}
+#showbody{
+    background: url(images/curls.png)
+}
+
+@media only screen and (max-width: 812px){
+    #header{
+        width: 100%;
+    }
+    #bname{
+        margin-left: 100px;
+        margin-top: 10px;
+    }
+    #navbar{
+        margin-top: 40px;
+    }
+    #logo1{
+        margin-top:15px;
+    }
+    #buttlayout{
+        margin-top: 600px;
+    }
+    .songTitle{
+        text-align: center;
+        margin-top: 150px;
+        margin-right: 60%
+    }
+    .media1{
+        text-align: center;
+        margin-left: 10%
+    }
+
+}
