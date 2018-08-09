@@ -82,22 +82,30 @@ body{
     background: url(images/curls.png)
 }
 
-@media only screen and (max-width: 812px){
+@media only screen and (max-width: 400px){
     #openingpage{
-        
+        background: url(images/bank\ shot.png) no-repeat center center fixed; 
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
     }
     #header{
         width: 100%;
     }
     #bname{
         margin-left: 100px;
-        margin-top: 10px;
+        margin-top: 5px;
+        font-size: 25px;
     }
     #navbar{
         margin-top: 40px;
+        margin-right: 40px;
     }
     #logo1{
-        margin-top:15px;
+        margin-top:18px;
+        width: 10px;
+        height: 10px;
     }
     #buttlayout{
         margin-top: 600px;
@@ -105,11 +113,11 @@ body{
     .songTitle{
         text-align: center;
         margin-top: 150px;
-        margin-right: 60%
+        margin-right: 1190px;
     }
     .media1{
         text-align: center;
-        margin-left: 10%
+        margin-left: 30px;
     }
 
 }
