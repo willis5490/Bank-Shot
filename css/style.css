@@ -83,6 +83,9 @@ body{
 }
 
 @media only screen and (max-width: 812px){
+    #openingpage{
+        
+    }
     #header{
         width: 100%;
     }
