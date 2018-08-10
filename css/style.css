@@ -25,9 +25,7 @@
 #header{
     background-color: rgb(90, 111, 132);
 }
-body{
-    
-}
+
 #openingpage{
     background: url(images/bank\ shot.png) no-repeat center center fixed; 
             -webkit-background-size: cover;
@@ -90,9 +88,7 @@ body{
         -o-background-size: cover;
         background-size: cover;
     }
-    #header{
-        width: 100%;
-    }
+    
     #bname{
         margin-left: 100px;
         margin-top: 5px;
@@ -100,7 +96,7 @@ body{
     }
     #navbar{
         margin-top: 40px;
-        margin-right: 40px;
+        margin-right: 65px;
     }
     #logo1{
         margin-top:18px;
